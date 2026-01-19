@@ -5,6 +5,6 @@ public class Lab003_local {
         int i=10;
        System.out.println("the no. is="+i);
 
-    }
-    System.out.println("the no. is="+i);
+
+    System.out.println ("the no. is="+i);}
 }
